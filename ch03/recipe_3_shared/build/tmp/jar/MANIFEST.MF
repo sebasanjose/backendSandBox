@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: lib/spring-webmvc-5.0.4.RELEASE.jar lib/spring-aop-5.0.4.REL
+ EASE.jar lib/slf4j-api-1.7.26.jar lib/jcl-over-slf4j-1.7.26.jar lib/spr
+ ing-web-5.0.4.RELEASE.jar lib/spring-context-5.0.4.RELEASE.jar lib/logb
+ ack-classic-1.2.3.jar lib/spring-expression-5.0.4.RELEASE.jar lib/logba
+ ck-core-1.2.3.jar lib/spring-core-5.0.4.RELEASE.jar lib/spring-beans-5.
+ 0.4.RELEASE.jar lib/spring-jcl-5.0.4.RELEASE.jar
+
