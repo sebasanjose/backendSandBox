@@ -9,7 +9,7 @@
 <h2><spring:message code="welcome.message"
                     text="Welcome to Court Reservation System"/></h2>
 
-Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd"/>.
+English local test Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd"/>.
 
 <hr/>
 Handling time : ${handlingTime} ms
