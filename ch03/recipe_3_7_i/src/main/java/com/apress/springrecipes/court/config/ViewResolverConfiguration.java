@@ -20,8 +20,6 @@ public class ViewResolverConfiguration implements WebMvcConfigurer {
         Map<String, MediaType> mediatypes = new HashMap<>();
         mediatypes.put("html", MediaType.TEXT_HTML);
         mediatypes.put("pdf", MediaType.valueOf("application/json"));
-        mediatypes.put("xls", MediaType.valueOf("application/vnd.ms-excel"));
-        mediatypes.put("xml", MediaType.APPLICATION_XML);
         mediatypes.put("json", MediaType.APPLICATION_JSON);
         configurer.mediaTypes(mediatypes);
     }
